@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0283-move-zeroes) |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
