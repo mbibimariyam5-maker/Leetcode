@@ -44,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,8 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
