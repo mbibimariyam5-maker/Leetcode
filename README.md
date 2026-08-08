@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0048-rotate-image) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
