@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0125-valid-palindrome) |
+| [0394-decode-string](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0394-decode-string) |
 ## Bracket Sequences
 |  |
 | ------- |
