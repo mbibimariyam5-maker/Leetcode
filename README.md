@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0283-move-zeroes) |
 ## String
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
@@ -90,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0735-asteroid-collision) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
