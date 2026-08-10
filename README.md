@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0735-asteroid-collision) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
