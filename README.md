@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0735-asteroid-collision) |
 ## Hash Table
