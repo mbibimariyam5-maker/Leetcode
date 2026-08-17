@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0048-rotate-image) |
+| [0136-single-number](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0283-move-zeroes) |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
