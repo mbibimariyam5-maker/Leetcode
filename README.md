@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0189-rotate-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0189-rotate-array) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
