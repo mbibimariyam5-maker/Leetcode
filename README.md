@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0189-rotate-array) |
+| [0507-perfect-number](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
