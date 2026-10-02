@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0394-decode-string) |
+| [0451-sort-characters-by-frequency](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Array
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -87,10 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -206,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
