@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0394-decode-string) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/mbibimariyam5-maker/Leetcode/tree/master/0496-next-greater-element-i) |
